@@ -30,5 +30,5 @@ export default new Router({
       component:Profile
     },
   ],
-  mode:'history'
+  mode:'hash'
 })
