@@ -14,5 +14,8 @@ module.exports = {
     },
     devServer: {
 
-    }
+    },
+  publicPath: './',
+  assetsDir: 'static',
+  parallel: false
 }
